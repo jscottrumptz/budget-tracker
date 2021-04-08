@@ -14,6 +14,7 @@ const FILES_TO_CACHE = [
     "./index.html",
     "./css/styles.css",
     "./js/index.js",
+    "./js/idb.js"
 ];
 
 // service workers run before the window object has even been created. So instead we use the self 
